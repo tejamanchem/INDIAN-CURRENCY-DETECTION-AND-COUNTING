@@ -27,28 +27,28 @@ Great technological advancement in printing and Scanning industry made counterfe
 
 ## Architecture
 
-<img src='../INDIAN-CURRENCY-DETECTION-AND-COUNTING/images/Capture1.PNG'></img>
+<img src='./images/Capture1.PNG'></img>
 
 ## CNN ARCHITECHURE
 
-<img src='../INDIAN-CURRENCY-DETECTION-AND-COUNTING/images/Capture2.PNG'></img>
+<img src='./images/Capture2.PNG'></img>
 
 ## RNN ARCHITECHURE
 
-<img src='../INDIAN-CURRENCY-DETECTION-AND-COUNTING/images/Capture3.PNG'></png>
+<img src='./images/Capture3.PNG'></png>
 
 ## IMPLEMENTATION
 
-<img src='../INDIAN-CURRENCY-DETECTION-AND-COUNTING/images/c4.PNG'></img>
+<img src='./images/c4.PNG'></img>
 
 ## SEQUENCE DIAGRAM
-<img src='../INDIAN-CURRENCY-DETECTION-AND-COUNTING/images/c5.PNG'>
+<img src='./images/c5.PNG'>
 
 ## Features of real note
-<img src ='../INDIAN-CURRENCY-DETECTION-AND-COUNTING/images/c6.PNG'>
+<img src ='./images/c6.PNG'>
 
 ## Fake currency detection
-<img src='../INDIAN-CURRENCY-DETECTION-AND-COUNTING/images/c7.PNG'>
+<img src='./images/c7.PNG'>
 
 ## APPLICATIONS
 ->Currency Checking Machines
