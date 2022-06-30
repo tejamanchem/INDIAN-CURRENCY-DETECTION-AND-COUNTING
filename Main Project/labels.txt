@@ -1,0 +1,15 @@
+0 Original_10
+1 Fake_10
+2 Original_20
+3 Fake_20
+4 Original_50
+5 Fake_50
+6 Original_100
+7 Fake_100
+8 Original_200
+9 Fake_200
+10 Original_500
+11 Fake_500
+12 Original_2000
+13 Fake_2000
+14 Empty
