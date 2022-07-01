@@ -27,11 +27,11 @@ Great technological advancement in printing and Scanning industry made counterfe
 
 ## Architecture
 
-<img src='./images/Capture1.PNG'></img>
+<img src='./images/Capture.PNG'></img>
 
 ## CNN ARCHITECHURE
 
-<img src='./images/Capture2.PNG'></img>
+<img src='./images/Capture1.PNG'></img>
 
 ## RNN ARCHITECHURE
 
